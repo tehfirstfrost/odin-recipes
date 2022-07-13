@@ -1,0 +1,51 @@
+/* style.css */
+
+body{
+    background-color: lightblue;
+}
+
+h1, h3{
+    text-align: center;
+    font-family:Impact, 'Arial Narrow Bold', sans-serif
+}
+
+
+.div-descrpt{
+    width: 50%;
+    margin:auto;
+    padding:auto;
+    width: 500px;
+
+}
+.div-steps{
+    width: 50%;
+    margin:auto;
+    padding:auto;
+    width: auto;
+
+}
+
+.div-ingredients{
+    margin: auto;
+    padding: 10px;
+    align-items: center;
+    width: 300px;
+}
+.container{
+    margin: auto;
+    padding: 10px;
+    align-items: center;
+    width: 300px;
+}
+
+ol{
+    width: 50%;
+    margin: auto;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
